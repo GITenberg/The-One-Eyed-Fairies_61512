@@ -1,16 +1,21 @@
 _repo: The-One-Eyed-Fairies_61512
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Greene, Julia
     gutenberg_agent_id: '9693'
     url: http://www.gutenberg.org/2009/agents/9693
+covers:
+- cover_type: archival
+  image_path: 61512-h/images/cover.jpg
 creator:
   author:
     agent_name: Hanley, Georgia Eldridge
     gutenberg_agent_id: '51469'
     url: http://www.gutenberg.org/2009/agents/51469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61512#The-One-Eyed-Fairies
 gutenberg_issued: '2020-02-25'
 gutenberg_type: Text
 identifiers:
