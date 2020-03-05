@@ -1,0 +1,29 @@
+_repo: The-One-Eyed-Fairies_61512
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Greene, Julia
+    gutenberg_agent_id: '9693'
+    url: http://www.gutenberg.org/2009/agents/9693
+creator:
+  author:
+    agent_name: Hanley, Georgia Eldridge
+    gutenberg_agent_id: '51469'
+    url: http://www.gutenberg.org/2009/agents/51469
+description: ''
+gutenberg_issued: '2020-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61512'
+  lccn: '24007533'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sewing -- Juvenile literature'
+- !lcc 'TT'
+- !lcc 'PZ'
+- GITenberg
+title: The One-Eyed Fairies
+url: http://www.gutenberg.org/ebooks/61512
